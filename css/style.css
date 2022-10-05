@@ -46,6 +46,7 @@ main{
 .foto img{
     width: 170px;
     height: auto;
+    border-radius: 49%;
 }
 
 .header-container{
