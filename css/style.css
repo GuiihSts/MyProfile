@@ -192,6 +192,7 @@ main{
     background-color: var(--bg-header);
     border-top: 2px solid #9370DB;
     height: 100px;
+    overflow: hidden;
 }
 
 .footer img{
